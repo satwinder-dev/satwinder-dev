@@ -1,88 +1,111 @@
+<!-- ======================= -->
+<!--      PREMIUM HEADER     -->
+<!-- ======================= -->
+
 <h1 align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.herokuapp.com?size=28&duration=3000&color=FFFFFF&center=true&vCenter=true&width=900&lines=Hi+I'm+Ihwa+Hussain;Machine+Learning+Engineer;Building+Production-Ready+AI+Systems;Turning+Data+Into+Real-World+Impact" />
-    <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.herokuapp.com?size=28&duration=3000&color=000000&center=true&vCenter=true&width=900&lines=Hi+I'm+Ihwa+Hussain;Machine+Learning+Engineer;Building+Production-Ready+AI+Systems;Turning+Data+Into+Real-World+Impact" />
-    <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=3000&color=FFFFFF&center=true&vCenter=true&width=900&lines=Hi+I'm+Ihwa+Hussain;Machine+Learning+Engineer;Building+Production-Ready+AI+Systems;Turning+Data+Into+Real-World+Impact" alt="Hi I'm Ihwa Hussain — Machine Learning Engineer" />
+    <source media="(prefers-color-scheme: dark)" 
+      srcset="https://readme-typing-svg.herokuapp.com?size=30&duration=3000&color=3919EE&center=true&vCenter=true&width=900&lines=Hi+I'm+Ihwa+Hussain;Machine+Learning+Engineer;Building+Production-Ready+AI+Systems;Turning+Data+Into+Real-World+Impact" />
+    <source media="(prefers-color-scheme: light)" 
+      srcset="https://readme-typing-svg.herokuapp.com?size=30&duration=3000&color=3919EE&center=true&vCenter=true&width=900&lines=Hi+I'm+Ihwa+Hussain;Machine+Learning+Engineer;Building+Production-Ready+AI+Systems;Turning+Data+Into+Real-World+Impact" />
+    <img src="https://readme-typing-svg.herokuapp.com?size=30&duration=3000&color=3919EE&center=true&vCenter=true&width=900&lines=Hi+I'm+Ihwa+Hussain;Machine+Learning+Engineer;Building+Production-Ready+AI+Systems;Turning+Data+Into+Real-World+Impact" />
   </picture>
 </h1>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ihwahussain&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views"/>
+  <img src="https://komarev.com/ghpvc/?username=ihwahussain&label=Profile%20Views&color=3919EE&style=flat" />
 </p>
 
-<p align="center">
-  <b>Machine Learning Engineer | Data Engineer | Software Engineer</b>
+<p align="center" style="font-size:18px;">
+  <b style="color:#3919EE;">Machine Learning Engineer | Data Engineer | Software Engineer</b>
   <br/>
   Focused on building <b>scalable ML systems</b>, <b>production data pipelines</b>, and <b>real-world AI solutions</b>.
   <br/>
   I design and deploy intelligent systems that move beyond experimentation — delivering measurable business impact.
 </p>
 
-<p align="center">
-  <a href="https://ihwahussain.dev">🌐 Portfolio</a> •
-  <a href="https://linkedin.com/in/ihwahussain">LinkedIn</a> •
-  <a href="mailto:ihwa.hussain.dev@example.com">Email</a>
+<p align="center" style="font-size:18px;">
+  <a href="https://ihwahussain.dev" style="color:#3919EE;">🌐 Portfolio</a> •
+  <a href="https://linkedin.com/in/ihwahussain" style="color:#3919EE;">LinkedIn</a> •
+  <a href="mailto:ihwa.hussain.dev@example.com" style="color:#3919EE;">Email</a>
 </p>
 
 ---
 
 ## 🧠 About Me
 
-I specialize in **end-to-end machine learning systems** — from large-scale data ingestion and feature engineering to model deployment and scalable backend integration.
+<p style="font-size:18px;">
+I specialize in <b style="color:#3919EE;">end-to-end machine learning systems</b> — from large-scale data ingestion and feature engineering to model deployment and scalable backend integration.
+</p>
 
+<p style="font-size:18px;">
 My work sits at the intersection of:
+</p>
 
-- Machine Learning & Predictive Modeling  
-- Big Data Engineering (Spark, Hadoop)  
-- Production Backend Systems  
-- Deep Learning & Computer Vision  
-- Real-world decision intelligence  
+<ul style="font-size:18px;">
+<li>Machine Learning & Predictive Modeling</li>
+<li>Big Data Engineering (Spark, Hadoop)</li>
+<li>Production Backend Systems</li>
+<li>Deep Learning & Computer Vision</li>
+<li>Real-world decision intelligence</li>
+</ul>
 
-I focus on building systems that:
-- Scale beyond prototypes  
-- Deliver measurable outcomes  
-- Are production-ready and maintainable  
+<p style="font-size:18px;">
+I focus on building systems that scale beyond prototypes, deliver measurable outcomes, and are production-ready.
+</p>
 
 ---
 
-## 🚀 Featured Projects (Impact-Driven)
+## 🚀 Featured Projects
 
-### 📊 Employment & Recruitment Intelligence (Big Data + ML)
-- Engineered distributed data pipelines using **Apache Spark** for large-scale labor datasets  
-- Built a salary prediction model using **Spark MLlib**, integrating geographic and job-level features  
-- Enhanced model realism by integrating external LinkedIn job data  
-- Delivered production-grade feature engineering workflows  
+### 📊 Employment & Recruitment Intelligence
 
-**Tech:** Spark, MLlib, Big Data, Python
+<ul style="font-size:18px;">
+<li>Engineered distributed pipelines using <b>Apache Spark</b></li>
+<li>Built salary prediction models using <b>Spark MLlib</b></li>
+<li>Integrated external LinkedIn job data</li>
+<li>Delivered production-grade feature engineering workflows</li>
+</ul>
+
+<p style="font-size:18px;"><b>Tech:</b> Spark, MLlib, Big Data, Python</p>
 
 ---
 
 ### 🛒 Production E-Commerce Order Microservice
-- Designed scalable RESTful APIs using **Python (Flask)** and PostgreSQL  
-- Architected microservice-based backend with Kubernetes deployment  
-- Implemented CI/CD pipelines and automated testing  
-- Built for production reliability and maintainability  
 
-**Tech:** Flask, PostgreSQL, Kubernetes, CI/CD
+<ul style="font-size:18px;">
+<li>Designed scalable RESTful APIs using <b>Flask</b> and PostgreSQL</li>
+<li>Architected Kubernetes-based deployments</li>
+<li>Implemented CI/CD automation pipelines</li>
+<li>Built for reliability and maintainability</li>
+</ul>
+
+<p style="font-size:18px;"><b>Tech:</b> Flask, PostgreSQL, Kubernetes, CI/CD</p>
 
 ---
 
 ### 🌍 Environmental Mortality Impact Analysis
-- Built Hadoop MapReduce workflows for multi-GB health datasets  
-- Executed advanced HiveQL queries for mortality trend analysis  
-- Designed Tableau dashboards for policy-level visualization  
-- Delivered scalable big-data processing pipelines  
 
-**Tech:** Hadoop, HiveQL, Tableau
+<ul style="font-size:18px;">
+<li>Developed Hadoop MapReduce workflows</li>
+<li>Executed HiveQL-based large-scale queries</li>
+<li>Designed Tableau dashboards</li>
+<li>Delivered scalable environmental analytics systems</li>
+</ul>
+
+<p style="font-size:18px;"><b>Tech:</b> Hadoop, HiveQL, Tableau</p>
 
 ---
 
 ### 🛰 Satellite Imagery Semantic Segmentation
-- Implemented U-Net architecture in **PyTorch** for land classification  
-- Optimized loss functions and learning rate strategies  
-- Achieved high-accuracy pixel-level segmentation  
 
-**Tech:** PyTorch, Deep Learning, Computer Vision
+<ul style="font-size:18px;">
+<li>Implemented optimized U-Net architecture in PyTorch</li>
+<li>Performed pixel-level land classification</li>
+<li>Improved generalization via loss & learning rate tuning</li>
+</ul>
+
+<p style="font-size:18px;"><b>Tech:</b> PyTorch, Deep Learning, Computer Vision</p>
 
 ---
 
@@ -90,24 +113,22 @@ I focus on building systems that:
 
 ### Machine Learning
 <p>
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
-<img src="https://img.shields.io/badge/Scikit Learn-F7931E?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/NLP-4B8BBE?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Python-3919EE?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/PyTorch-3919EE?style=for-the-badge&logo=pytorch&logoColor=white"/>
+<img src="https://img.shields.io/badge/Scikit Learn-3919EE?style=for-the-badge"/>
 </p>
 
 ### Big Data
 <p>
-<img src="https://img.shields.io/badge/Apache Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white"/>
-<img src="https://img.shields.io/badge/Hadoop-66CCFF?style=for-the-badge&logo=apachehadoop&logoColor=black"/>
-<img src="https://img.shields.io/badge/Hive-FF7A00?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Apache Spark-3919EE?style=for-the-badge&logo=apachespark&logoColor=white"/>
+<img src="https://img.shields.io/badge/Hadoop-3919EE?style=for-the-badge&logo=apachehadoop&logoColor=white"/>
 </p>
 
 ### Backend & Systems
 <p>
-<img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/>
-<img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
-<img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white"/>
+<img src="https://img.shields.io/badge/Flask-3919EE?style=for-the-badge&logo=flask&logoColor=white"/>
+<img src="https://img.shields.io/badge/PostgreSQL-3919EE?style=for-the-badge&logo=postgresql&logoColor=white"/>
+<img src="https://img.shields.io/badge/Kubernetes-3919EE?style=for-the-badge&logo=kubernetes&logoColor=white"/>
 </p>
 
 ---
@@ -116,11 +137,11 @@ I focus on building systems that:
 
 <p align="center">
   <img 
-    src="https://github-readme-stats.vercel.app/api?username=ihwahussain&show_icons=true&count_private=true&hide_title=true&theme=radical" 
+    src="https://github-readme-stats.vercel.app/api?username=ihwahussain&show_icons=true&count_private=true&hide_title=true&title_color=3919EE&icon_color=3919EE&text_color=ffffff&bg_color=00000000" 
     height="160"
   />
   <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=ihwahussain&layout=compact&hide_title=true&theme=radical" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=ihwahussain&layout=compact&hide_title=true&title_color=3919EE&text_color=ffffff&bg_color=00000000" 
     height="160"
   />
 </p>
@@ -129,45 +150,33 @@ I focus on building systems that:
 
 ## 🎓 Education
 
-- M.S. Computer Science  
-- B.S. Computer Engineering  
-- B.S. Mathematics  
+<p style="font-size:18px;">
+M.S. Computer Science<br/>
+B.S. Computer Engineering<br/>
+B.S. Mathematics
+</p>
 
 ---
 
 ## 🏆 Academic Excellence
 
-- National Merit Finalist (Top 1% nationwide)  
-- National AP Scholar with Distinction  
-- Math Olympiad Top Scorer  
-- GRE Quantitative: 170/170  
-- SAT Math: 800/800  
-
----
-
-## 🌍 Languages
-
-- English — Native/Bilingual  
-- French — Professional Working Proficiency  
-
----
-
-## 🎯 Currently Seeking
-
-- ML Engineering Internships  
-- Data Engineering Internships  
-- Applied AI Research Roles  
-- Backend Engineering Roles (ML-focused)
+<ul style="font-size:18px;">
+<li>National Merit Finalist (Top 1%)</li>
+<li>National AP Scholar with Distinction</li>
+<li>Math Olympiad Top Scorer</li>
+<li>GRE Quantitative: 170/170</li>
+<li>SAT Math: 800/800</li>
+</ul>
 
 ---
 
 ## 📫 Let’s Connect
 
-If you're building meaningful AI systems, scalable platforms, or intelligent data products — I’d love to collaborate.
-
-📧 ihwa.hussain.dev@example.com  
-🌐 https://ihwahussain.dev  
-💼 https://linkedin.com/in/ihwahussain  
+<p style="font-size:18px;">
+📧 ihwa.hussain.dev@example.com<br/>
+🌐 https://ihwahussain.dev<br/>
+💼 https://linkedin.com/in/ihwahussain
+</p>
 
 ---
 

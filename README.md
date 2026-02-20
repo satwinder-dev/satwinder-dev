@@ -28,7 +28,7 @@
 
 ---
 
-## <img src="https://img.shields.io/badge/About%20Me-%233919EE?style=for-the-badge&logoColor=white" alt="About Me" /> About Me
+## <span style="color:#3919EE">About Me</span>
 
 I specialize in **end-to-end machine learning systems** — from large-scale data ingestion and feature engineering to model deployment and scalable backend integration.
 
@@ -47,9 +47,9 @@ I focus on building systems that:
 
 ---
 
-## <img src="https://img.shields.io/badge/Featured%20Projects-%233919EE?style=for-the-badge&logoColor=white" alt="Featured Projects" /> Featured Projects (Impact-Driven)
+## <span style="color:#3919EE">Featured Projects (Impact-Driven)</span>
 
-### <img src="https://img.shields.io/badge/Employment%20%26%20Recruitment-%233919EE?style=for-the-badge&logoColor=white" alt="Employment & Recruitment" /> Employment & Recruitment Intelligence (Big Data + ML)
+### <span style="color:#3919EE">Employment & Recruitment Intelligence (Big Data + ML)</span>
 - Engineered distributed data pipelines using **Apache Spark** for large-scale labor datasets  
 - Built a salary prediction model using **Spark MLlib**, integrating geographic and job-level features  
 - Enhanced model realism by integrating external LinkedIn job data  
@@ -59,7 +59,7 @@ I focus on building systems that:
 
 ---
 
-### <img src="https://img.shields.io/badge/Production%20E-Commerce-%233919EE?style=for-the-badge&logoColor=white" alt="Production E-Commerce" /> Production E-Commerce Order Microservice
+### <span style="color:#3919EE">Production E-Commerce Order Microservice</span>
 - Designed scalable RESTful APIs using **Python (Flask)** and PostgreSQL  
 - Architected microservice-based backend with Kubernetes deployment  
 - Implemented CI/CD pipelines and automated testing  
@@ -69,7 +69,7 @@ I focus on building systems that:
 
 ---
 
-### <img src="https://img.shields.io/badge/Environmental%20Mortality-%233919EE?style=for-the-badge&logoColor=white" alt="Environmental Mortality" /> Environmental Mortality Impact Analysis
+### <span style="color:#3919EE">Environmental Mortality Impact Analysis</span>
 - Built Hadoop MapReduce workflows for multi-GB health datasets  
 - Executed advanced HiveQL queries for mortality trend analysis  
 - Designed Tableau dashboards for policy-level visualization  
@@ -79,7 +79,7 @@ I focus on building systems that:
 
 ---
 
-### <img src="https://img.shields.io/badge/Satellite%20Imagery-%233919EE?style=for-the-badge&logoColor=white" alt="Satellite Imagery" /> Satellite Imagery Semantic Segmentation
+### <span style="color:#3919EE">Satellite Imagery Semantic Segmentation</span>
 - Implemented U-Net architecture in **PyTorch** for land classification  
 - Optimized loss functions and learning rate strategies  
 - Achieved high-accuracy pixel-level segmentation  
@@ -88,9 +88,9 @@ I focus on building systems that:
 
 ---
 
-## <img src="https://img.shields.io/badge/Technical%20Stack-%233919EE?style=for-the-badge&logoColor=white" alt="Technical Stack" /> Technical Stack
+## <span style="color:#3919EE">Technical Stack</span>
 
-### <img src="https://img.shields.io/badge/Machine%20Learning-%233919EE?style=for-the-badge&logoColor=white" alt="Machine Learning" /> Machine Learning
+### <span style="color:#3919EE">Machine Learning</span>
 <p>
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
 <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
@@ -98,14 +98,14 @@ I focus on building systems that:
 <img src="https://img.shields.io/badge/NLP-4B8BBE?style=for-the-badge"/>
 </p>
 
-### <img src="https://img.shields.io/badge/Big%20Data-%233919EE?style=for-the-badge&logoColor=white" alt="Big Data" /> Big Data
+### <span style="color:#3919EE">Big Data</span>
 <p>
 <img src="https://img.shields.io/badge/Apache Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white"/>
 <img src="https://img.shields.io/badge/Hadoop-66CCFF?style=for-the-badge&logo=apachehadoop&logoColor=black"/>
 <img src="https://img.shields.io/badge/Hive-FF7A00?style=for-the-badge"/>
 </p>
 
-### <img src="https://img.shields.io/badge/Backend%20%26%20Systems-%233919EE?style=for-the-badge&logoColor=white" alt="Backend & Systems" /> Backend & Systems
+### <span style="color:#3919EE">Backend & Systems</span>
 <p>
 <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/>
 <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
@@ -114,7 +114,7 @@ I focus on building systems that:
 
 ---
 
-## <img src="https://img.shields.io/badge/GitHub%20Analytics-%233919EE?style=for-the-badge&logoColor=white" alt="GitHub Analytics" /> GitHub Analytics
+## <span style="color:#3919EE">GitHub Analytics</span>
 
 <p align="center">
   <img 
@@ -129,7 +129,7 @@ I focus on building systems that:
 
 ---
 
-## <img src="https://img.shields.io/badge/Education-%233919EE?style=for-the-badge&logoColor=white" alt="Education" /> Education
+## <span style="color:#3919EE">Education</span>
 
 - M.S. Computer Science  
 - B.S. Computer Engineering  
@@ -137,7 +137,7 @@ I focus on building systems that:
 
 ---
 
-## <img src="https://img.shields.io/badge/Academic%20Excellence-%233919EE?style=for-the-badge&logoColor=white" alt="Academic Excellence" /> Academic Excellence
+## <span style="color:#3919EE">Academic Excellence</span>
 
 - National Merit Finalist (Top 1% nationwide)  
 - National AP Scholar with Distinction  
@@ -147,14 +147,14 @@ I focus on building systems that:
 
 ---
 
-## <img src="https://img.shields.io/badge/Languages-%233919EE?style=for-the-badge&logoColor=white" alt="Languages" /> Languages
+## <span style="color:#3919EE">Languages</span>
 
 - English — Native/Bilingual  
 - French — Professional Working Proficiency  
 
 ---
 
-## <img src="https://img.shields.io/badge/Currently%20Seeking-%233919EE?style=for-the-badge&logoColor=white" alt="Currently Seeking" /> Currently Seeking
+## <span style="color:#3919EE">Currently Seeking</span>
 
 - ML Engineering Internships  
 - Data Engineering Internships  
@@ -163,7 +163,7 @@ I focus on building systems that:
 
 ---
 
-## <img src="https://img.shields.io/badge/Let%E2%80%99s%20Connect-%233919EE?style=for-the-badge&logoColor=white" alt="Let's Connect" /> Let’s Connect
+## <span style="color:#3919EE">Let’s Connect</span>
 
 If you're building meaningful AI systems, scalable platforms, or intelligent data products — I’d love to collaborate.
 

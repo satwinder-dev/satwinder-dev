@@ -28,7 +28,7 @@
 
 ---
 
-## 🧠 About Me
+## <span style="color:#3919EE">About Me</span>
 
 I specialize in **end-to-end machine learning systems** — from large-scale data ingestion and feature engineering to model deployment and scalable backend integration.
 
@@ -47,9 +47,9 @@ I focus on building systems that:
 
 ---
 
-## 🚀 Featured Projects (Impact-Driven)
+## <span style="color:#3919EE">Featured Projects (Impact-Driven)</span>
 
-### 📊 Employment & Recruitment Intelligence (Big Data + ML)
+### <span style="color:#3919EE">Employment & Recruitment Intelligence (Big Data + ML)</span>
 - Engineered distributed data pipelines using **Apache Spark** for large-scale labor datasets  
 - Built a salary prediction model using **Spark MLlib**, integrating geographic and job-level features  
 - Enhanced model realism by integrating external LinkedIn job data  
@@ -59,7 +59,7 @@ I focus on building systems that:
 
 ---
 
-### 🛒 Production E-Commerce Order Microservice
+### <span style="color:#3919EE">Production E-Commerce Order Microservice</span>
 - Designed scalable RESTful APIs using **Python (Flask)** and PostgreSQL  
 - Architected microservice-based backend with Kubernetes deployment  
 - Implemented CI/CD pipelines and automated testing  
@@ -69,7 +69,7 @@ I focus on building systems that:
 
 ---
 
-### 🌍 Environmental Mortality Impact Analysis
+### <span style="color:#3919EE">Environmental Mortality Impact Analysis</span>
 - Built Hadoop MapReduce workflows for multi-GB health datasets  
 - Executed advanced HiveQL queries for mortality trend analysis  
 - Designed Tableau dashboards for policy-level visualization  
@@ -79,7 +79,7 @@ I focus on building systems that:
 
 ---
 
-### 🛰 Satellite Imagery Semantic Segmentation
+### <span style="color:#3919EE">Satellite Imagery Semantic Segmentation</span>
 - Implemented U-Net architecture in **PyTorch** for land classification  
 - Optimized loss functions and learning rate strategies  
 - Achieved high-accuracy pixel-level segmentation  
@@ -88,9 +88,9 @@ I focus on building systems that:
 
 ---
 
-## 🛠 Technical Stack
+## <span style="color:#3919EE">Technical Stack</span>
 
-### Machine Learning
+### <span style="color:#3919EE">Machine Learning</span>
 <p>
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
 <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
@@ -98,14 +98,14 @@ I focus on building systems that:
 <img src="https://img.shields.io/badge/NLP-4B8BBE?style=for-the-badge"/>
 </p>
 
-### Big Data
+### <span style="color:#3919EE">Big Data</span>
 <p>
 <img src="https://img.shields.io/badge/Apache Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white"/>
 <img src="https://img.shields.io/badge/Hadoop-66CCFF?style=for-the-badge&logo=apachehadoop&logoColor=black"/>
 <img src="https://img.shields.io/badge/Hive-FF7A00?style=for-the-badge"/>
 </p>
 
-### Backend & Systems
+### <span style="color:#3919EE">Backend & Systems</span>
 <p>
 <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/>
 <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
@@ -114,7 +114,7 @@ I focus on building systems that:
 
 ---
 
-## 📈 GitHub Analytics
+## <span style="color:#3919EE">GitHub Analytics</span>
 
 <p align="center">
   <img 
@@ -129,7 +129,7 @@ I focus on building systems that:
 
 ---
 
-## 🎓 Education
+## <span style="color:#3919EE">Education</span>
 
 - M.S. Computer Science  
 - B.S. Computer Engineering  
@@ -137,7 +137,7 @@ I focus on building systems that:
 
 ---
 
-## 🏆 Academic Excellence
+## <span style="color:#3919EE">Academic Excellence</span>
 
 - National Merit Finalist (Top 1% nationwide)  
 - National AP Scholar with Distinction  
@@ -147,14 +147,14 @@ I focus on building systems that:
 
 ---
 
-## 🌍 Languages
+## <span style="color:#3919EE">Languages</span>
 
 - English — Native/Bilingual  
 - French — Professional Working Proficiency  
 
 ---
 
-## 🎯 Currently Seeking
+## <span style="color:#3919EE">Currently Seeking</span>
 
 - ML Engineering Internships  
 - Data Engineering Internships  
@@ -163,7 +163,7 @@ I focus on building systems that:
 
 ---
 
-## 📫 Let’s Connect
+## <span style="color:#3919EE">Let’s Connect</span>
 
 If you're building meaningful AI systems, scalable platforms, or intelligent data products — I’d love to collaborate.
 

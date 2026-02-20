@@ -1,8 +1,3 @@
-<!-- PREMIUM HEADER -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4B8BBE,100:EE4C2C&height=120&section=header"/>
-</p>
-
 <h1 align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.herokuapp.com?size=28&duration=3000&color=FFFFFF&center=true&vCenter=true&width=900&lines=Hi+I'm+Ihwa+Hussain;Machine+Learning+Engineer;Building+Production-Ready+AI+Systems;Turning+Data+Into+Real-World+Impact" />

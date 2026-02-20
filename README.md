@@ -100,22 +100,6 @@ Tech: PyTorch, Deep Learning, Computer Vision
 
 ---
 
-<h2><font color="#3919EE">GitHub Analytics</font></h2>
-
-<p align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=ihwahussain&show_icons=true&count_private=true&hide_title=true&theme=radical&cache_seconds=1800" 
-    height="165"
-  />
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=ihwahussain&layout=compact&hide_title=true&theme=radical&cache_seconds=1800" 
-    height="165"
-  />
-</p>
-
-
----
-
 <h2><font color="#3919EE">Education</font></h2>
 
 - M.S. Computer Science  

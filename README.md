@@ -15,16 +15,7 @@
 
 <!-- GITHUB STATS -->
 
-<p align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=ihwahussain&show_icons=true&include_all_commits=true&count_private=true&hide_title=true&hide_rank=true&bg_color=00000000&theme=transparent" 
-    height="160"
-  />
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=ihwahussain&layout=compact&hide_title=true&bg_color=00000000&theme=transparent" 
-    height="160"
-  />
-</p>
+
 
 ---
 

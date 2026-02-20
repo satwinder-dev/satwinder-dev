@@ -145,3 +145,9 @@ Tech: PyTorch, Deep Learning, Computer Vision
 <p align="center">
   <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" />
 </p>
+
+---
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com/?size=20&duration=3000&color=3919EE&center=true&vCenter=true&width=900&lines=Thanks+for+visiting!;Connect+%E2%80%A2+ihwahussain.dev" alt="Thanks for visiting" />
+</p>

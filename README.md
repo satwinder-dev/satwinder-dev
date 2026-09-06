@@ -28,7 +28,7 @@
 
 <br>
 
-## `$ cat about.md`
+## `cat about.md`
 
 Frontend Developer building responsive, production-grade web interfaces with React, Next.js, and TypeScript. A background in QA and test automation (Python, Selenium, ISTQB) shapes a quality-first approach to shipping UI. Comfortable working AI-assisted — Cursor AI and Augment AI are part of the daily workflow, not a novelty.
 
@@ -42,7 +42,7 @@ OPEN_TO    = ["Frontend Developer", "React Developer"]
 
 <br>
 
-## `$ ls skills/`
+## `ls skills/`
 
 <div align="center">
 
@@ -64,7 +64,7 @@ OPEN_TO    = ["Frontend Developer", "React Developer"]
 
 <br>
 
-## `$ cat expertise.json`
+## `cat expertise.json`
 
 | Domain | Proficiency | Details |
 |---|---|---|
@@ -77,7 +77,7 @@ OPEN_TO    = ["Frontend Developer", "React Developer"]
 
 <br>
 
-## `$ ls projects/ --featured`
+## `ls projects/ --featured`
 
 <details open>
 <summary><strong>🎵 Hella Music App</strong></summary>
@@ -97,7 +97,7 @@ A responsive music streaming application with song search, a global audio player
 
 <br>
 
-## `$ git log --oneline --all experience`
+## `git log --oneline --all experience`
 
 ### `Ensuesoft Pvt. Ltd.` — Frontend Developer
 **May 2025 – Present · Mohali, Punjab**
@@ -124,7 +124,7 @@ A responsive music streaming application with song search, a global audio player
 
 <br>
 
-## `$ cat achievements.log`
+## `cat achievements.log`
 
 <div align="center">
 
@@ -138,7 +138,7 @@ A responsive music streaming application with song search, a global audio player
 
 <br>
 
-## `$ cat education.md`
+## `cat education.md`
 
 <div align="center">
 
@@ -152,12 +152,12 @@ A responsive music streaming application with song search, a global audio player
 
 <br>
 
-## `$ ./analytics.sh --github`
+## `./analytics.sh --github`
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=satwinder-dev&show_icons=true&theme=transparent&hide_border=true&bg_color=0D1117&title_color=1857C9&icon_color=1857C9&text_color=E6EDF7" alt="github stats" width="49%"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=satwinder-dev&layout=compact&theme=transparent&hide_border=true&bg_color=0D1117&title_color=1857C9&text_color=E6EDF7" alt="top languages" width="49%"/>
+<img src="https://github-readme-stats.vercel.app/api?username=satwinder-dev&show_icons=true&theme=transparent&hide_border=true&bg_color=0D1117&title_color=1857C9&icon_color=1857C9&text_color=E6EDF7&cache_seconds=86400" alt="github stats" width="49%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=satwinder-dev&layout=compact&theme=transparent&hide_border=true&bg_color=0D1117&title_color=1857C9&text_color=E6EDF7&cache_seconds=86400" alt="top languages" width="49%"/>
 
 <br>
 
@@ -167,7 +167,7 @@ A responsive music streaming application with song search, a global audio player
 
 <br>
 
-## `$ cat trophies.json`
+## `cat trophies.json`
 
 <div align="center">
 
@@ -199,7 +199,7 @@ A responsive music streaming application with song search, a global audio player
 
 <br>
 
-## `$ ./contribution-snake.sh`
+## `./contribution-snake.sh`
 
 <div align="center">
 
@@ -212,7 +212,7 @@ A responsive music streaming application with song search, a global audio player
 
 <br>
 
-## `$ cat current-focus.yaml`
+## `cat current-focus.yaml`
 
 ```yaml
 current_focus:
@@ -224,7 +224,7 @@ current_focus:
 
 <br>
 
-## `$ ./connect.sh`
+## `./connect.sh`
 
 <div align="center">
 

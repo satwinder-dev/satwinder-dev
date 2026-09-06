@@ -187,13 +187,13 @@ A responsive music streaming application with song search, a global audio player
 
 <div align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details.svg?username=satwinder-dev&theme=github_dark" alt="profile details" width="100%"/>
+<img src="https://raw.githubusercontent.com/satwinder-dev/satwinder-dev/main/profile-summary-card-output/github_dark/0-profile-details.svg" alt="profile details" width="100%"/>
 <br>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language.svg?username=satwinder-dev&theme=github_dark" width="32%"/>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language.svg?username=satwinder-dev&theme=github_dark" width="32%"/>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats.svg?username=satwinder-dev&theme=github_dark" width="32%"/>
+<img src="https://raw.githubusercontent.com/satwinder-dev/satwinder-dev/main/profile-summary-card-output/github_dark/1-repos-per-language.svg" width="32%"/>
+<img src="https://raw.githubusercontent.com/satwinder-dev/satwinder-dev/main/profile-summary-card-output/github_dark/2-most-commit-language.svg" width="32%"/>
+<img src="https://raw.githubusercontent.com/satwinder-dev/satwinder-dev/main/profile-summary-card-output/github_dark/3-stats.svg" width="32%"/>
 <br>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time.svg?username=satwinder-dev&theme=github_dark" width="60%"/>
+<img src="https://raw.githubusercontent.com/satwinder-dev/satwinder-dev/main/profile-summary-card-output/github_dark/4-productive-time.svg" width="60%"/>
 
 </div>
 
